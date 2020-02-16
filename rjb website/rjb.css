@@ -1,0 +1,315 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.navbar{
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	background-color: rgb(0, 0, 0);
+	width: 100%;
+	height: 70px;
+	z-index: 1;
+	opacity: .9;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+
+
+}
+
+.nav{
+	display: flex;
+	justify-content: right;
+	list-style: none;
+	
+	
+
+}
+
+.logo{
+	
+}
+
+.nav li{
+	text-decoration: none;
+	
+}
+
+a{
+	margin: 15px;
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 6px;
+	
+	
+
+}
+
+a:hover{
+	color: #f31f08;
+	
+	border-bottom: 2px solid  #e74c3c ;
+	
+	
+	
+
+}
+
+.first{
+	height: 100vh;
+	background-image: url(bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	opacity: .9;
+}
+
+h2{
+	padding-left: 470px;
+	padding-top: 230px;
+	font-size: 50px;
+	font-style: poppins;
+	text-shadow: 5px 5px 4px rgb(8, 8, 8);
+	color: #d7dbdd;
+}
+
+h1{
+	padding-left: 350px;
+	font-size: 60px;
+	font-style: poppins;
+	text-shadow: 5px 5px 4px rgb(8, 8, 8);	
+	color: #ff6961;
+
+}
+
+.navi{
+	padding-left: 550px;
+	padding-top: 10px;
+}
+
+
+.second{
+	height: 40vh;
+	background-color: rgb(255, 255, 255);
+}
+
+.pop{
+	padding-left: 450px;
+	padding-top: 45px;
+	font-size: 40px;
+	font-family: poppins;
+	font-style: bold;
+	font-weight: bolder;
+	color: #ff6961;
+}
+
+
+.fac{
+	font-size: 40px;
+	padding-left: 490px;
+	font-weight: bolder;
+	font-family: sans-serif;
+	color: #ff6961;
+	padding-top: -10px;
+}
+
+
+.third{
+	height: 32vh;
+	background-color:#ff6961;
+
+}
+
+.aa{
+	height: 60px;
+	width: auto;
+	padding-left: 250px;
+	padding-top: 30px;
+}
+
+.bb{
+	height: 60px;
+	width: auto;
+	padding-left: 270px;
+	padding-top: 30px;
+}
+
+.cc{
+	height: 60px;
+	width: auto;
+	padding-left: 170px;
+	padding-top: 30px;
+}
+
+.fffff{
+	padding-left: 100px;
+	letter-spacing: 1px;
+	padding-right: 30px;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.ggggg{
+	padding-left: 170px;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.hhhhh{
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 250px;
+}
+
+
+.forth{
+	height: 120vh;
+	background-color: rgb(253, 253, 253);
+}
+
+.mar{
+	font-size: 30px;
+	padding-top: 180px;
+	font-family: poppins;
+	color: #ff6961;
+	font-weight: bolder;
+}
+
+.fb1{
+  height: 370px;
+  width: auto;
+  border-radius: 5px;
+ 
+}
+
+
+
+.fb{
+	margin-top:40px;
+	margin-left: 350px;
+}
+
+.fifth{
+	height: 62vh;
+	background-color: #ff6961;
+}
+
+.admin{
+	font-size: 30px;
+	font-family: poppins;
+	font-weight:bold ;
+	text-align: center;
+	padding-top: 20px;
+}
+.sunil{
+	height: 180px;
+	width: auto;
+	border-radius: 100px;
+	margin-left: 160px;
+	margin-right: 160px;
+	margin-top: 20px;
+}
+
+.chamoli{
+	height: 180px;
+	width: auto;
+	border-radius: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+
+
+.vidit{
+	height: 180px;
+	width: auto;
+	border-radius: 100px;
+	margin-top: 10px;
+	margin-left: 140px;
+	margin-right: 140px;
+	margin-top: 20px;
+}
+
+
+.ward1{
+	 
+	 
+	 text-align: center;
+}
+
+.ward2{
+	text-align: center;
+	
+}
+
+.ward3{
+	text-align: center;
+	margin-top: 10px;
+}
+
+.more{
+	margin-left: 370px;
+	padding-bottom: 5px;
+	text-transform: lowercase;
+	border: 2px solid white;
+	border-radius: 4px;
+	background-color: rgb(255, 255, 255);
+	color: black;
+}
+
+.more:hover{
+	background-color:   #1d1a1a;
+	border-color:  #ff6961;
+	border-bottom: none;
+	color: white;
+}
+
+.sixth{
+	height: 120vh;
+	background-color: rgb(255, 255, 255);
+}
+
+.map{
+	padding-left: 300px;
+	padding-top: 80px;
+}
+
+.loca{
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding-left: 500px;
+	padding-top: 50px;
+}
+
+.seventh{
+	height: 25vh;
+	background-color: #ff6961;
+}
+
+.cred{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.credit{
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+
+
+
+
